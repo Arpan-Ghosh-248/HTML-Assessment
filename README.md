@@ -1,4 +1,4 @@
-# HTML-ASSESSMENT
+# HTML-Assessment
 This is My HTML Assessment
 
 # Screenshot
